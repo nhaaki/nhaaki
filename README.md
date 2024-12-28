@@ -1,6 +1,6 @@
-- 👋 Hello, I'm Nur Hakimi - a year 3 IT Student from Ngee Ann Polytechnic.
+- 👋 Hello, I'm Nur Hakimi - an alumni IT Student that used to study Ngee Ann Polytechnic.
 - 👀 I’m interested in Machine Learning, Data Analysis and Software Development.
-- 🌱 I’m currently learning Machine Learning, Data Structures and Algorithms and C++.
+- 🌱 I’m currently trying to specialise in data science, but I'm still trying to learn skills surrounding computer science.
 - 💞️ I’m looking for opportunities pertaining to software development in roles around data analysis or machine learning.
 - 📫 Please email me at nhaakimi@gmail.com, or message me at my telegram @nurkimha
 
